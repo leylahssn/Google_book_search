@@ -15,15 +15,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Leylahssn/Google_book_search.git"
+    "url": "git+https://github.com/leylahssn/Google_book_search.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Leylahssn/Google_book_search/issues"
+    "url": "https://github.com/leylahssn/Google_book_search/issues"
   },
-  "homepage": "https://github.com/Leylahssn/Google_book_search#readme",
+  "homepage": "https://github.com/leylahssn/Google_book_search#readme",
   "dependencies": {
     "axios": "^0.19.2",
     "body-parser": "^1.19.0",
